@@ -7,6 +7,8 @@ using Eigen::MatrixXd;
 using Eigen::VectorXd;
 using std::vector;
 
+/*Code snippets taken from Udacity SDC course lessons (quizies / assignment / samples)*/
+
 /**
  * Initializes Unscented Kalman filter
  * This is scaffolding, do not modify
